@@ -1,0 +1,17 @@
+fishbones (0.2.0) pecos; urgency=medium
+
+  * Rebuild for pecos.  Switched to native format.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Sun, 28 May 2023 01:15:06 -0600
+
+fishbones (0.2.0-1~riogrande+1) riogrande; urgency=medium
+
+  * Removed fonts.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Wed, 30 Nov 2022 19:38:06 -0700
+
+fishbones (0.1.0-1~riogrande+1) riogrande; urgency=medium
+
+  * Initial Release.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Tue, 29 Nov 2022 23:04:00 -0700
