@@ -1,3 +1,9 @@
+fishbones (0.2.1) gila; urgency=medium
+
+  * Rebuild for gila. 
+
+ -- Will Elliott <troutcobbler@gmail.com>  Tue, 06 May 2025 18:19:47 -0600
+
 fishbones (0.2.0) pecos; urgency=medium
 
   * Rebuild for pecos.  Switched to native format.

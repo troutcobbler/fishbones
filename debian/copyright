@@ -1,10 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: fishbones
 Upstream-Contact: troutcobbler@gmail.com 
-Source: https://bitbucket.org/troutcobbler/fishbones
+Source: https://github.com/troutcobbler/fishbones
 
 Files: *
-Copyright: 2020-2022 troutcobbler@gmail.com
+Copyright: 2020-2025 troutcobbler@gmail.com
 License: MIT
 
 License: MIT
