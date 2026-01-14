@@ -24,5 +24,5 @@ if [ -d "/sbin" ] ; then
     PATH="/sbin:$PATH"
 fi
 
-# autostart X
-exec startx
+# autostart hyprland
+exec hyprland

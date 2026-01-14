@@ -1,3 +1,9 @@
+fishbones (0.2.3) gila; urgency=medium
+
+  * Switched from X11 to hyprland. 
+
+ -- Will Elliott <troutcobbler@gmail.com>  Wed, 14 Jan 2026 14:32:24 -0700
+
 fishbones (0.2.2) gila; urgency=medium
 
   * Changed architecture to all.
