@@ -24,5 +24,5 @@ if [ -d "/sbin" ] ; then
     PATH="/sbin:$PATH"
 fi
 
-# autostart hyprland
-exec hyprland
+# autostart mango 
+exec mango
