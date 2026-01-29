@@ -1,3 +1,9 @@
+fishbones (0.2.4) gila; urgency=medium
+
+  * Switched from hyprland to mango
+
+ -- Will Elliott <troutcobbler@gmail.com>  Thu, 29 Jan 2026 15:22:02 -0700
+
 fishbones (0.2.3) gila; urgency=medium
 
   * Switched from X11 to hyprland. 
